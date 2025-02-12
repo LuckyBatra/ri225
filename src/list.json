@@ -1,0 +1,70 @@
+[
+    {
+        "id":1,
+        "name":"Sewing",
+        "title":"Skill Courses",
+        "fee":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/keep-calm-sew-with-passion-indoor-shot-woman-working-with-fabric-sewing-machine-trying-concentrate-workshop-young-creative-designer-making-new-garment-her-friend_176420-14581.jpg?t=st=1738573014~exp=1738576614~hmac=a08eeda2c4069c4773d4a47c070dad163ee245ff4d889ed2291da7dab6304503&w=996"
+    },
+
+    {
+        "id":2,
+        "name":"SOLAR pANEL",
+        "title":"Skill Courses",
+        "fee":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/green-energy-from-natural-resources-vector-concept_1308-129276.jpg?t=st=1738573110~exp=1738576710~hmac=4e622fc86f3139157f1a9acde7ccd76afd4f75a7906f4a53d9493b122adecf1d&w=740"
+
+    },
+
+    {
+        "id":3,
+        "name":"wEB DESIGNING",
+        "title":"RI Courses",
+        "fee":8500,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-photo/everything-will-be-awesome-group-young-people-casual-clothes-working-modern-office_146671-16522.jpg?t=st=1738564547~exp=1738568147~hmac=9754ea548df27d4636c8c6e68d6750816284374fe777d3459a0e190c4d855201&w=996"
+
+    },
+
+    {
+        "id":4,
+        "name":"aDV EXCEL",
+        "title":"ri Courses",
+        "fee":0,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-photo/everything-will-be-awesome-group-young-people-casual-clothes-working-modern-office_146671-16522.jpg?t=st=1738564547~exp=1738568147~hmac=9754ea548df27d4636c8c6e68d6750816284374fe777d3459a0e190c4d855201&w=996"
+
+    },
+
+    {
+        "id":5,
+        "name":"c C++",
+        "title":"ri Courses",
+        "fee":4500,
+        "category":"PAID",
+        "image":"https://img.freepik.com/free-photo/everything-will-be-awesome-group-young-people-casual-clothes-working-modern-office_146671-16522.jpg?t=st=1738564547~exp=1738568147~hmac=9754ea548df27d4636c8c6e68d6750816284374fe777d3459a0e190c4d855201&w=996"
+
+    },
+
+    {
+        "id":6,
+        "name":"tally",
+        "title":"ri Courses",
+        "fee":9000,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-photo/everything-will-be-awesome-group-young-people-casual-clothes-working-modern-office_146671-16522.jpg?t=st=1738564547~exp=1738568147~hmac=9754ea548df27d4636c8c6e68d6750816284374fe777d3459a0e190c4d855201&w=996"
+
+    },
+
+    {
+        "id":7,
+        "name":"hscit",
+        "title":"Ri Courses",
+        "fee":4500,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/everything-will-be-awesome-group-young-people-casual-clothes-working-modern-office_146671-16522.jpg?t=st=1738564547~exp=1738568147~hmac=9754ea548df27d4636c8c6e68d6750816284374fe777d3459a0e190c4d855201&w=996"
+
+    }
+]
